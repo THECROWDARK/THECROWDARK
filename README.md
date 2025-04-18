@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">🐲​ Hi, I'm Julian 🐲​</h1>
-<h3 align="center">A guy who likes coding :D .</h3>
+<h3 align="center">A guy who likes coding :D </h3>
 
 🔗 [LinkedIn](https://www.linkedin.com/in/julian-cuervo-a7816428b/)
 
