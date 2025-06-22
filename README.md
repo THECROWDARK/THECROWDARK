@@ -15,8 +15,10 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-%233C8C9E.svg?style=flat&logo=nltk&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
 
 
 </p>
