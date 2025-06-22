@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-%233C8C9E.svg?style=flat&logo=nltk&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 
 
 </p>
